@@ -65,7 +65,7 @@ body{font-family:prox-reg;}
 
 
  .footer{padding:15px;border-top: 1px solid #D6D6D6;}
- .footer .promact-links ul{list-style:none;padding:0;}
+ .footer .promact-links ul{list-style:none;padding:0;margin:0;}
  .footer .promact-links ul li{display:inline-block}
  .footer .promact-links ul li a{color: #FDD352;font-size: 15px;padding: 0px 15px;}
  .footer p.copyright-promact{color:#ADADAD;font-size:15px;margin:0px;}
