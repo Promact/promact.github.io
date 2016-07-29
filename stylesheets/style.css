@@ -44,8 +44,8 @@ body{font-family:prox-reg;}
 .all-projects .text-div h3{font-size: 30px;text-transform: uppercase;}
 .all-projects .text-div h5{font-size:20px;color:rgba(255,255,255, 0.75);font-family:prox-light;}
 .all-projects .text-div span{color:rgba(255,255,255, 0.5);padding: 0px 3px;}
-.all-projects .add-icon{position: absolute;bottom: 0;right: 0;background-color: #fff;padding: 5px 8px;}
-.all-projects .add-icon i{font-size:33px;}
+.all-projects .add-icon{position: absolute;bottom: 0;right: 0;background-color: #fff;padding: 6px 8px;}
+.all-projects .add-icon i{font-size:33px;vertical-align:middle;}
 .all-projects .text-div img {width: 12px;vertical-align: text-top;}
 
  .pr-view{position:relative}
@@ -68,7 +68,7 @@ body{font-family:prox-reg;}
  .footer .promact-links ul{list-style:none;padding:0;}
  .footer .promact-links ul li{display:inline-block}
  .footer .promact-links ul li a{color: #FDD352;font-size: 15px;padding: 0px 15px;}
- .footer p.copyright-promact{color:#ADADAD;font-size:15px}
+ .footer p.copyright-promact{color:#ADADAD;font-size:15px;margin:0px;}
 
 
  .fixed {
